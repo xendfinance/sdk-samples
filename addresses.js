@@ -1,8 +1,3 @@
-// const x = {
-// 	individual: "0x7c6c6F19a4200180dA452E75d135ce12b83A8eb8",
-// 	client_record: "0x05915835e37464099e328fbEBACfbB79A2EEE1b5",
-// 	token: '0x6B175474E89094C44Da98b954EedeAC495271d0F'
-// }
 
 module.exports = [
 	{
