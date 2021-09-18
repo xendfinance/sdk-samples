@@ -21,6 +21,11 @@ ganache-cli --fork https://bsc-dataseed.binance.org/ --unlock 0xd6faf697504075a3
 npm run funds && npm start
 ```
 
+### Run the sample ui
+```
+cd ./uglyapp && npm install && npm start
+```
+
 ## Possible Issue You Will Encounter
 
 ### Error: missing trie node
