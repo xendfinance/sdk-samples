@@ -18,7 +18,7 @@ ganache-cli --fork https://bsc-dataseed.binance.org/ --unlock 0xd6faf697504075a3
 ## Run Scripts
 
 ```
-npm run funds && npm start
+yarn install && npm run fund && npm start
 ```
 
 ### Run the sample ui
